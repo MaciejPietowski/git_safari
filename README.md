@@ -1,5 +1,5 @@
 # git_safari
 
-Added new line.
+Added line.
 
 This will advance the master branch.
